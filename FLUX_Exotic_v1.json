@@ -9,7 +9,7 @@
 "uniqueIdentifier": "8543cead2053ac9461defbcd07f82d66e295228ceb0f72f61edfc930f1ae149a",
 "name": "FLUX Exotic",
 "version": "v1",
-"downloadURL": "https://raw.githubusercontent.com/werdna696/runware-models/main/FLUX_Exotic_v1.safetensors",
+"downloadURL": "https://github.com/werdna696/runware-models/releases/download/v1/FLUX_Exotic_v1.safetensors",
 "private": false,
 "heroImageURL": "https://raw.githubusercontent.com/werdna696/runware-models/main/FLUX_Exotic_v1.jpg",
 "defaultWeight": 0.8,
