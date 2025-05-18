@@ -1,0 +1,29 @@
+[
+{
+"taskType": "modelUpload",
+"taskUUID": "5e409859-6ef0-4934-b8f3-4e39e6a73f2d",
+"category": "lora",
+"architecture": "flux1d",
+"format": "safetensors",
+"air": "werdna:1102062@1237966",
+"uniqueIdentifier": "5fddfeec673bb72e5d079611d6c8865f014b17c3838d8a12d5d385af9b61bd1d",
+"name": "FLUX Erotic Exotic",
+"version": "v1",
+"downloadURL": "https://github.com/werdna696/runware-models/raw/main/FLUX_Erotic_Exotic_v1.safetensors",
+"private": false,
+"heroImageURL": "https://github.com/werdna696/runware-models/raw/main/FLUX_Erotic_Exotic_v1.jpg",
+"defaultWeight": 0.8,
+"tags": [
+"FLUX Erotic Exotic v1",
+"FLUX Erotic v1",
+"FLUX Erotic v2",
+"FLUX Exotic",
+"FLUX Vibrant",
+"FLUX",
+"werdna696"
+],
+"positiveTriggerWords": "",
+"shortDescription": "FLUX Erotic Exotic v1 — dripping with provocative detail and expressive depth, made for bold, sensual renderings.",
+"comment": ""
+}
+]

@@ -1,0 +1,26 @@
+[
+{
+"taskType": "modelUpload",
+"taskUUID": "2b3c4d5e-6f7a-48b9-8123-4c5d6e7f8a9b",
+"category": "lora",
+"architecture": "flux1d",
+"format": "safetensors",
+"air": "werdna:1102062@1237966",
+"uniqueIdentifier": "b6fb74e06ecf2c10acd93960096a5e7be311f7a4aea7d5be280b652e689a6f86",
+"name": "FLUX Erotic",
+"version": "v1",
+"downloadURL": "https://raw.githubusercontent.com/werdna696/runware-models/main/FLUX_Erotic_v1.safetensors",
+"private": false,
+"heroImageURL": "https://raw.githubusercontent.com/werdna696/runware-models/main/FLUX_Erotic_v1.jpg",
+"defaultWeight": 0.8,
+"tags": [
+"FLUX Erotic v1",
+"FLUX Erotic v2",
+"FLUX",
+"werdna696"
+],
+"positiveTriggerWords": "",
+"shortDescription": "FLUX Erotic v1 — sultry, warm tonal LoRA for sensuous renders.",
+"comment": ""
+}
+]

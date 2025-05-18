@@ -1,0 +1,34 @@
+[
+{
+"taskType": "modelUpload",
+"taskUUID": "c829f4a7-5d3e-4a2b-9e4f-1b2c3d4e5f60",
+"category": "lora",
+"architecture": "flux1d",
+"format": "safetensors",
+"air": "werdna:1102062@1237966",
+"uniqueIdentifier": "e74ef0c083cb73d00e94e60c437209a8d74ce41ceb7b9c5a25aa4dfa005d441f",
+"name": "FLUX Exotic",
+"version": "v2",
+"downloadURL": "https://raw.githubusercontent.com/werdna696/runware-models/main/FLUX_Exotic_v2.safetensors",
+"private": false,
+"heroImageURL": "https://raw.githubusercontent.com/werdna696/runware-models/main/FLUX_Exotic_v2.jpg",
+"defaultWeight": 0.8,
+"tags": [
+"FLUX Exotic v2",
+"FLUX Exotic v1",
+"FLUX",
+"werdna696"
+],
+"positiveTriggerWords": "",
+"shortDescription": "FLUX Exotic v2 — a refined evolution of primal textures with enhanced clarity and depth.",
+"comment": ""
+}
+]
+
+
+
+
+
+
+
+

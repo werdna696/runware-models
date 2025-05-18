@@ -1,0 +1,26 @@
+[
+{
+"taskType": "modelUpload",
+"taskUUID": "d762c3e9-8f1a-4b7d-ac3e-5b6f9a7d1e2f",
+"category": "lora",
+"architecture": "flux1d",
+"format": "safetensors",
+"air": "werdna:1102062@1237966",
+"uniqueIdentifier": "d5340be42c52f0375853f64f309907c2f88c65ce9f8661881edc60f33e40f367",
+"name": "FLUX Erotic",
+"version": "v2",
+"downloadURL": "https://raw.githubusercontent.com/werdna696/runware-models/main/FLUX_Erotic_v2.safetensors",
+"private": false,
+"heroImageURL": "https://raw.githubusercontent.com/werdna696/runware-models/main/FLUX_Erotic_v2.jpg",
+"defaultWeight": 0.8,
+"tags": [
+"FLUX Erotic v2",
+"FLUX Erotic v1",
+"FLUX",
+"werdna696"
+],
+"positiveTriggerWords": "",
+"shortDescription": "FLUX Erotic v2 — evolved with stronger tonal definition, layered warmth, and refined LoRA expressiveness.",
+"comment": ""
+}
+]

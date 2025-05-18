@@ -1,0 +1,28 @@
+[
+{
+"taskType": "modelUpload",
+"taskUUID": "da9f0c12-3a45-4b25-9a7f-6e8d3b2c1d4e",
+"category": "lora",
+"architecture": "flux1d",
+"format": "safetensors",
+"air": "werdna:1102062@1237966",
+"uniqueIdentifier": "ab9acc279df7a3f5bf858a54bef1c03c4e376c9d40babf4ed68603051ede7aa4",
+"name": "FLUX Vibrant",
+"version": "v1.2",
+"downloadURL": "https://raw.githubusercontent.com/werdna696/runware-models/main/FLUX_Vibrant_v1.2.safetensors",
+"private": false,
+"heroImageURL": "https://raw.githubusercontent.com/werdna696/runware-models/main/FLUX_Vibrant_v1.2.jpg",
+"defaultWeight": 0.8,
+"tags": [
+"FLUX Vibrant v1.2",
+"FLUX Vibrant v1",
+"FLUX Exotic",
+"FLUX Erotic",
+"FLUX",
+"werdna696"
+],
+"positiveTriggerWords": "",
+"shortDescription": "FLUX Vibrant v1.2 — tuned-up intensity with vivid contrast, smooth color harmonies, and punchier prompt response.",
+"comment": ""
+}
+]

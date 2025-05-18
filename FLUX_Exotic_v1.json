@@ -1,0 +1,28 @@
+[
+{
+"taskType": "modelUpload",
+"taskUUID": "2f891e3c-4d5f-6a7b-8c9d-0e1f23456789",
+"category": "lora",
+"architecture": "flux1d",
+"format": "safetensors",
+"air": "werdna:1102062@1237966",
+"uniqueIdentifier": "8543cead2053ac9461defbcd07f82d66e295228ceb0f72f61edfc930f1ae149a",
+"name": "FLUX Exotic",
+"version": "v1",
+"downloadURL": "https://raw.githubusercontent.com/werdna696/runware-models/main/FLUX_Exotic_v1.safetensors",
+"private": false,
+"heroImageURL": "https://raw.githubusercontent.com/werdna696/runware-models/main/FLUX_Exotic_v1.jpg",
+"defaultWeight": 0.8,
+"tags": [
+"FLUX Exotic v1",
+"FLUX Exotic v2",
+"FLUX Exotic Jungle v1",
+"FLUX Exotic Jungle v1.2",
+"FLUX",
+"werdna696"
+],
+"positiveTriggerWords": "",
+"shortDescription": "FLUX Exotic v1 — the original fusion of primal edge and vivid intensity, designed to ignite untamed visual storytelling.",
+"comment": ""
+}
+]

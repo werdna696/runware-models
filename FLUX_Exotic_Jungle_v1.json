@@ -1,0 +1,27 @@
+[
+{
+"taskType": "modelUpload",
+"taskUUID": "eaf2d4c7-9f24-4a16-b83d-d9a7f3e5c2b4",
+"category": "lora",
+"architecture": "flux1d",
+"format": "safetensors",
+"air": "werdna:1102062@1237966",
+"uniqueIdentifier": "3c361446494bc3940f007be4771c30e82e1f650335d8dc22180961f34905f132",
+"name": "FLUX Exotic Jungle",
+"version": "v1",
+"downloadURL": "https://raw.githubusercontent.com/werdna696/runware-models/main/FLUX_Exotic_Jungle_v1.safetensors",
+"private": false,
+"heroImageURL": "https://raw.githubusercontent.com/werdna696/runware-models/main/FLUX_Exotic_Jungle_v1.jpg",
+"defaultWeight": 0.8,
+"tags": [
+"FLUX Exotic Jungle v1",
+"FLUX Exotic Jungle v1.2",
+"FLUX Exotic",
+"FLUX",
+"werdna696"
+],
+"positiveTriggerWords": "",
+"shortDescription": "FLUX Exotic Jungle v1 — an untamed blend of LoRA-driven detail and lush primal textures, perfect for wild, raw concepts.",
+"comment": ""
+}
+]
